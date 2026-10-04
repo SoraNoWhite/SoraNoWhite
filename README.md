@@ -1,4 +1,4 @@
-# Welcome to my profile, dear friends! You can call me Anton (not my real name)
+# Welcome to my profile, dear friends! You can call me Vlad (not my real name)
 
 ### Beginner Python programmer
 
